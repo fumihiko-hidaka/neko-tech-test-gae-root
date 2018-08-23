@@ -1,0 +1,3 @@
+dispatch:
+- url: "*neko-tech-test.appspot.com/firebase-remote-config"
+  service: py27-fb-remote-config
