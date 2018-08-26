@@ -1,3 +1,5 @@
 dispatch:
 - url: "*neko-tech-test.appspot.com/firebase-remote-config"
   service: py27-fb-remote-config
+- url: "*neko-tech-test.appspot.com/upload-string-to-gcs"
+  service: upload-string-to-gcs
