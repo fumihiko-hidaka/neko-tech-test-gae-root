@@ -3,3 +3,5 @@ dispatch:
   service: py27-fb-remote-config
 - url: "*neko-tech-test.appspot.com/upload-string-to-gcs"
   service: upload-string-to-gcs
+- url: "*neko-tech-test.appspot.com/nodejs8-by-yarn"
+  service: nodejs8-by-yarn
