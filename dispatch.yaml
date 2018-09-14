@@ -5,3 +5,5 @@ dispatch:
   service: upload-string-to-gcs
 - url: "*neko-tech-test.appspot.com/nodejs8-by-yarn"
   service: nodejs8-by-yarn
+- url: "*neko-tech-test.appspot.com/gae-php-barcode"
+  service: gae-php-barcode
