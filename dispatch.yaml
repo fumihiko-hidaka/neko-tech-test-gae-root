@@ -7,3 +7,5 @@ dispatch:
   service: nodejs8-by-yarn
 - url: "*neko-tech-test.appspot.com/gae-php-barcode"
   service: gae-php-barcode
+- url: "*neko-tech-test.appspot.com/gae-py37-barcode"
+  service: gae-py37-barcode
