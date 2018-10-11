@@ -9,3 +9,5 @@ dispatch:
   service: gae-php-barcode
 - url: "*neko-tech-test.appspot.com/gae-py37-barcode"
   service: gae-py37-barcode
+- url: "*neko-tech-test.appspot.com/global-var-gae"
+  service: global-var-gae
